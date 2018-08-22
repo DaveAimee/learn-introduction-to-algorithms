@@ -1,1 +1,1 @@
-This is a text.
+This is my personal excercises to introduction-to-algorithms.
